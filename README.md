@@ -17,14 +17,23 @@ Project Structure
 -----------------
 
 sentiment-analysis-project/
+
 ├── data/                  # Training and test datasets
+
 ├── models/                # Saved model files
+
 ├── notebooks/             # Jupyter notebooks for exploration
+
 ├── sentiment_cli.py       # Command-line interface version
+
 ├── sentiment_app.py       # Streamlit web application
+
 ├── train_model.py         # Model training and fine-tuning script
+
 ├── evaluate_model.py      # Model evaluation script
+
 ├── requirements.txt       # Project dependencies
+
 └── README.md              # This file
 
 Installation
